@@ -21,7 +21,7 @@ And that's it. Now, if an advertisement appears while you're on YouTube, it shou
 
 ## Thanks to
 
--   **SkyNoxt**: - [https://www.flaticon.com/free-icons/safe-box](https://www.elotrolado.net/hilo_simple-youtube-skipper_2484060)
+-   **SkyNoxt**: - [For sharing the script to skip ads](https://www.elotrolado.net/hilo_simple-youtube-skipper_2484060)
 
 ---------------------------------------------
 
@@ -48,4 +48,4 @@ Y ya está. Ahora, si te sale un anuncio mientras estás en YouTube, este deber�
 
 ## Agradecimientos
 
--   **SkyNoxt**: - [https://www.flaticon.com/free-icons/safe-box](https://www.elotrolado.net/hilo_simple-youtube-skipper_2484060)
+-   **SkyNoxt**: - [Por compartir el script para saltar la publicidad](https://www.elotrolado.net/hilo_simple-youtube-skipper_2484060)
