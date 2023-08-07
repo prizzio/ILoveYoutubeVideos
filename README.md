@@ -14,7 +14,7 @@ Follow these easy steps:
 
 -  Open the Extensions section in Chrome. (**Options** -> **Extensions** -> **Manage Extensions**)
 -  Enable the **Developer Mode** option.
--  Click on the **Load unpacked** option and select the folder included in the project where the 4 extension files are located.
+-  Click on the **Load unpacked** option and select the folder included in the project, (**chromeExtensionFiles**), where the 4 extension files are located.
 -  Verify that the extension is enabled.
   
 And that's it. Now, if an advertisement appears while you're on YouTube, it should close almost instantly.
@@ -41,7 +41,7 @@ Sigue estos sencillos pasos:
 
 -  Abre el apartado de extensiones en Chrome (Opciones -> Extensiones -> Gestionar extensiones)
 -  Activa el modo desarrollador
--  Selecciona la opción "Cargar descomprimida" y elige la carpeta incluida en el proyecto donde están los 4 ficheros de la extensión.
+-  Selecciona la opción "Cargar descomprimida" y elige la carpeta incluida en el proyecto, (**chromeExtensionFiles**),  donde están los 4 ficheros de la extensión.
 -  Verifica que la extensión está activada.
 
 Y ya está. Ahora, si te sale un anuncio mientras estás en YouTube, este debería cerrarse casi instantáneamente.
