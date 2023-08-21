@@ -1,6 +1,6 @@
 # ILoveYoutubeVideos
 
-This project is a chrome extension to skip ads
+This project is a chrome extension to skip Youtube ads
 
 ## How it works
  
@@ -27,7 +27,7 @@ And that's it. Now, if an advertisement appears while you're on YouTube, it shou
 
 ## Información en castellano
 
-Este proyecto es una extensión para Chrome que permite saltarse los anuncios.
+Este proyecto es una extensión para Chrome que permite saltarse los anuncios de Youtube.
 
 ## Cómo funciona
 
